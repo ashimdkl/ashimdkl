@@ -11,6 +11,10 @@ Hello! I'm Ashim Dhakal, a passionate developer currently focusing on web develo
 - C++
 - React
 - C#
+- HTML
+- CSS
+- JS
+- AWS
 
 ## Current Projects
 
