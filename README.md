@@ -21,7 +21,13 @@ Hello! I'm Ashim Dhakal, a passionate developer currently focusing on web develo
 I am currently working on various web development projects to enhance my skills and deepen my understanding of React. Additionally, I am open to collaborating on intermediate projects with fellow developers who share the same passion and enthusiasm for creating innovative solutions.
 
 Currently, I am focused on this project:
-K-Cafe Ordering System: A web application that provides an online ordering experience for customers and an admin dashboard for managing orders. It is built using HTML, CSS, and JavaScript, with features like order placement, order management, lock control, and status control.
+AI & Software Development Research Assistant @ The Ohio State University
+• Worked alongside the development of a virtual reality game in Unity, immersing users in the world of springtails, showcasing their ecological significance.
+• Utilized React.js and Node.js to create an interactive online research showcase, transforming our exhibition into an engaging and educational virtual experience.
+• Integrated OpenAI APIs, such as DALL·E to enhance user engagement and provide a unique AI-driven experience.
+• Designed and implemented automated testing processes for algorithms, increasing test coverage by 30% and reducing post-release defects by 25%.
+• Utilized analytical insights to enhance user experience and optimize learning outcomes.
+
 
 ## Get in Touch
 
