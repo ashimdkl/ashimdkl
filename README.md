@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Ashim Dhakal, a passionate developer currently focusing on web development. I love coding in React , Java and C++ and always strive to improve my skills. Currently, I am learning and honing my expertise in React to build dynamic and interactive web applications. In the future, I am eager to expand my knowledge by further working on research opportunities at The Ohio State University and internships. 
+Hello! I'm Ashim Dhakal, a passionate developer currently focusing on software development. I love coding in React , Java , C++, Python. and always strive to improve my skills. Currently, I am learning and honing my expertise in React to build dynamic and interactive web applications. In the future, I am eager to expand my knowledge by further working on research opportunities at The Ohio State University and internships. 
 
 ## Interests
 
